@@ -1,0 +1,26 @@
+index:
+  meta:
+    title: Bienvenue sur P-Platform - La platforme de partage vidéo basée sur WebTorrent
+  title: Rejoignez la première communauté de partage vidéo
+  description: |
+    P-Platform est la première platforme de partage de vidéos sur laquelle vous pouvez découvrir et partager des vidéos
+    avec une communauté en gardant participant collectivement à l'hébergement de ses vidéos.
+  featuring: Vidéos à la une
+  trends: Vidéos populaires
+  recommendations: Vidéos recommandées
+
+trends:
+  meta:
+    title: Toutes les tendances sur P-Platform
+  title: Découvrez les tendances actuelles
+  description: Voici toutes les tendances actuelles sur P-Platform.
+
+recommendations:
+  meta:
+    title: Vidéos recommandées pour vous sur P-Platform
+  title: Vidéos recommandées
+  description: Cette page liste toutes vos vidéos recommandées.
+
+tools:
+  meta:
+    title: Télécharger les outils P-Platform

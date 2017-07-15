@@ -1,0 +1,25 @@
+index:
+  meta:
+    title: Welcome to P-Platform - The open-source WebTorrent based platform!
+  title: Join the first real video sharing community
+  description: |
+    P-Platform is the first web application on which you can discover videos and help the community to host them.
+  featuring: Featured videos
+  trends: Trending videos
+  recommendations: Recommended videos
+
+trends:
+  meta:
+    title: All the P-Platform trends
+  title: Discover the current trends
+  description: This page lists the latest trends on P-Platform.
+
+recommendations:
+  meta:
+    title: Recommended videos for you on P-Platform
+  title: Recommendations
+  description: Here you can see all your recommendations.
+
+tools:
+  meta:
+    title: Download P-Platform tools

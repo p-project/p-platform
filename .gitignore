@@ -1,0 +1,10 @@
+.idea/
+.DS_Store
+node_modules/
+dist/
+*.log
+.nuxt
+static/thumbnails/
+!static/thumbnails/.gitkeep
+static/tools/
+!static/tools/.gitkeep

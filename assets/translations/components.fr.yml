@@ -1,0 +1,51 @@
+navigation:
+  browse:
+    title: Parcourir
+    sections:
+      home: Accueil
+      recommendations: Recommandations
+      trends: Tendances
+      history: Historique
+  account:
+    title: Mon compte
+    sections:
+      ongoing: En cours
+      channels: Mes chaînes
+      playlists: Mes playlists
+  categories:
+    title: Catégories
+    sections:
+      music: Musique
+      gaming: Gaming
+      sport: Sport
+      news: Actualités
+
+user_header:
+  login: Se connecter
+  register: S'inscrire
+
+footer:
+  platform:
+    about: À propos
+    help: Aide
+    terms: Conditions d'utilisation
+  project:
+    about: À propos
+    legals: Mentions légales
+    association: L'association
+  tools: Outils
+
+search:
+  form:
+    placeholder: Rechercher une vidéo, un vidéaste...
+    title: Que recherchez-vous ?
+  results:
+    waiting: Commencez à écrire pour lancer une recherche...
+    searching: Recherche en cours...
+    not_found: Aucun résultat
+
+user:
+  connection: Connexion
+
+video_list:
+  no_video: Aucune vidéo trouvée.

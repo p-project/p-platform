@@ -1,0 +1,51 @@
+navigation:
+  browse:
+    title: Browse
+    sections:
+      home: Home
+      recommendations: Recommendations
+      trends: Trends
+      history: History
+  account:
+    title: My account
+    sections:
+      ongoing: Ongoing
+      channels: Channels
+      playlists: Playlists
+  categories:
+    title: Categories
+    sections:
+      music: Music
+      gaming: Gaming
+      sport: Sport
+      news: Actualities
+
+user_header:
+  login: Connection
+  register: Register
+
+footer:
+  platform:
+    about: About
+    help: Help
+    terms: Terms of usage
+  project:
+    about: About
+    legals: Legal notice
+    association: The association
+  tools: Tools
+
+search:
+  form:
+    placeholder: Search a video, an author...
+    title: What are you looking for?
+  results:
+    waiting: Start to write to launch a new search...
+    searching: Searching...
+    not_found: No result found
+
+user:
+  connection: Sign in
+
+video_list:
+  no_video: No video found.
