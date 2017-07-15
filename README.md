@@ -5,23 +5,12 @@ share videos using the WebTorrent network.
 
 This application is built using VueJS with Nuxt.
 
-## Installation
+## Installation and running
 
-This project uses *Yarn* to lock dependencies.
+[![Build Status](https://travis-ci.org/p-project/p-monitor.svg?branch=master)](https://travis-ci.org/p-project/p-monitor)
+[![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
-Install dependencies using the following command.
-
-```bash
-yarn
-```
-
-## Running
-
-Run the application (*dev* mode):
-
-```bash
-npm run server
-```
+## Deployment
 
 Build the application for production :
 
@@ -36,4 +25,3 @@ Run unit tests :
 ```bash
 npm run test
 ```
-

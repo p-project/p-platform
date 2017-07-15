@@ -1,0 +1,10 @@
+dependencies:
+  bin:
+    - git
+    - node
+    - npm
+    - yarn
+install:
+  - yarn
+run:
+  - npm run server
