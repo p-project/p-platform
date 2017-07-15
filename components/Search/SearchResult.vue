@@ -3,7 +3,7 @@
     <router-link :to="'/watch/' + video.id" class="video-item">
       <span class="video-title">{{ video.title }}</span><br />
       <span class="video-description">{{ video.description|truncate(130, '...') }}</span>
-      <router-link :to="'/watch/' + video.id" class="video-item">
+    </router-link>
   </li>
 </template>
 
