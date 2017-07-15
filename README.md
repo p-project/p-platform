@@ -12,7 +12,7 @@ As for any P-Project application, all dependencies, installation and run scripts
 
 ## Deployment
 
-Build the application for production :
+Build the application for production:
 
 ```bash
 npm run build
@@ -20,7 +20,7 @@ npm run build
 
 ## Testing
 
-Run unit tests :
+Run unit tests:
 
 ```bash
 npm run test
