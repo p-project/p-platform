@@ -8,7 +8,7 @@ This application is built using VueJS with Nuxt.
 ## Installation and running
 
 As for any P-Project application, all dependencies, installation and run scripts are listed in the
-[.p-properties.yml](https://github.com/p-project/p-monitor/blob/master/.p-properties.yml) file.
+[.p-properties.yml](https://github.com/p-project/p-platform/blob/master/.p-properties.yml) file.
 
 ## Deployment
 
