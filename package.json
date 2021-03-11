@@ -13,7 +13,7 @@
     "start": "HOST=0.0.0.0 nuxt start"
   },
   "dependencies": {
-    "axios": "^0.15",
+    "axios": "^0.21",
     "bootstrap": "^4.0.0-alpha.5",
     "font-awesome": "^4.7",
     "i18next": "^6.1",
